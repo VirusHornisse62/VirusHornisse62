@@ -32,7 +32,7 @@ print(f'Follow {VirusHornisse62} on Github')
 </a> 
 
 <a href="https://github.com/VirusHornisse62" target="_blank">
-    <img src="https://github.com/VirusHornisse62/VirusHornisse62/blob/output/github-contribution-grid-snake.svg" alt="snake">
+    <img src="https://github.com/Zseni051/Zseni051/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </a>
 
 <!-- https://lanyard-profile-readme.vercel.app/api/416508283528937472?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3 -->
