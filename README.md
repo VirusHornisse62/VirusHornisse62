@@ -4,8 +4,8 @@
     </a>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=Zseni051&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
-        <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni051" alt="Profile Stars"></a>
-        <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni051" alt="Profile Forks"></a>
+        <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/VirusHornisse62" alt="Profile Stars"></a>
+        <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/VirusHornisse62" alt="Profile Forks"></a>
     </p>
     <p align="center">
         <a href="https://www.youtube.com/channel/UCsQEHkiFRm0IiiblN93fVaw">
