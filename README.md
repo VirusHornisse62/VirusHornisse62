@@ -1,6 +1,6 @@
 <div> 
     <a href="https://discord.gg/cVdP7UKxRJ" target="_blank">
-        <img src="https://github.com/Zseni051/Zseni051/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Zseni's Github"/>
+        <img src="https://github.com/Zseni051/Zseni051/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Virus´s Github"/>
     </a>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=Zseni051&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
@@ -25,7 +25,7 @@ print(f'Follow {VirusHornisse62} on Github')
     <img src="https://discord.c99.nl/widget/theme-4/833790333351231509.png" alt="discord_profile" align="right"/>
 </a>
 
-・**15 years old, I like to fiddle around with some code.**
+・**16 years old, I like to fiddle around with some code.**
 
 <a href="https://github.com/VirusHornisse62" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirusHornisse62&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="languages">
